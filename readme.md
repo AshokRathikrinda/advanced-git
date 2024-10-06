@@ -1,4 +1,4 @@
-## Welcome to Git!
+## Hello Everyone, Welcome to the Git!
 
-This is adding from 'dev-adrian'
+Yo, Ashok here!
 ## modify readme file
